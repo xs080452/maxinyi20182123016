@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 小组作业
+ ### 信息
+     —— 姓名：马欣怡
+     —— 学号：20182123016
+     —— 负责部分：project部分用例图及文字说明
 
-You can use the [editor on GitHub](https://github.com/xs080452/maxinyi20182123016/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ ### 用例图
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+ ### 文字说明
+     —— 用例名称：project
+     —— 用例说明:Adminstrator可以在登录后进行创建项目、编辑项目、复制项目、删除项目、项目自动化、设置等操作	 
+              User可以在登录后进行创建项目、编辑项目、复制项目、删除项目、项目自动化、设置等操作
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xs080452/maxinyi20182123016/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      —— 参与者：Adminstrator、User	
+      —— 元素：Create projects, edit projects, copy projects, delete projects, automate projects,  set up	
+      —— 关系：Adminstrator对于Create projects, edit projects, copy projects, delete projects, automate projects,  set up	
+                是依赖关系
+               User对于Create projects, edit projects, copy projects, delete projects, automate projects,  set up
+                是依赖关系
+       —— 建模思路:
+       1 .Administrator 登录Github进入仓库之后可以进行projects操作，所以project和Administrator构成依赖关系。
+       2. User 登录Github进入仓库之后可以进行projects操作，所以project和User构成依赖关系。
+       3.Administrator 登录Github进入仓库之后进入projects可以进行Create projects, edit projects, copy projects, delete projects, automate projects,  set up
+         操作，所有这些选项和project构成扩展关系。
+       4.User登录Github进入仓库之后进入projects可以进行 Create projects, edit projects, copy projects, delete projects, automate projects,  set up操作，所有这些选项
+         和project构成扩展关系。
