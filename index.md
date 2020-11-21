@@ -1,11 +1,14 @@
+
 ## 小组作业
- ### 信息
+
+ ### 信息 
      —— 姓名：马欣怡
      —— 学号：20182123016
      —— 负责部分：project部分用例图及文字说明
 
  ### 用例图
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
  ### 文字说明
      —— 用例名称：project
      —— 用例说明:Adminstrator可以在登录后进行创建项目、编辑项目、复制项目、删除项目、项目自动化、设置等操作	 
