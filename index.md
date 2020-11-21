@@ -7,7 +7,7 @@
       —— 负责部分：project部分用例图及文字说明
 
 ## 用例图
- ![image](https://github.com/xs080452/maxinyi20182123016.github.io/blob/gh-pages/12.png)
+ ![image](https://github.com/xs080452/maxinyi20182123016.github.io/blob/main/er.png)
 
 ## 文字说明
      —— 用例名称：project
