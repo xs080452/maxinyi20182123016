@@ -105,7 +105,7 @@
 ### 3.类之间分别有什么关系	
            答：用户类与成绩类：依赖关系   用户类与系统类：依赖关系   成绩类和系统类：关联关系
 ### 4.使用 staruml 画出该功能模块
- ![image](https://github.com/xs080452/maxinyi20182123016.github.io/blob/main/er.png)
+ ![image](https://github.com/xs080452/maxinyi20182123016.github.io/blob/gh-pages/QQ%E5%9B%BE%E7%89%8720201222192433.png)
     
          
              
