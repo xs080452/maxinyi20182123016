@@ -126,6 +126,24 @@
 	       
 ### 4.使用 staruml 画出该功能模块
 ![image](https://github.com/xs080452/maxinyi20182123016.github.io/blob/gh-pages/QQ%E5%9B%BE%E7%89%8720201222192433.png)
+
+
+## 小组期中作业
+     通过分析 github 网站应用，使用 staruml 建立以下 3 个系统功能的顺序图和活动图模型。
+     这 3 个功能分别是：
+     （1）Repositories(仓库)项目代码托管功能；
+     （2）版本管理功能；
+     （3）代码查找功能。
+     
+## 负责部分
+     Repositories(仓库)项目代码托管功能；
+     思路：
+     用户在用户界面进行账号输入，用户账号在服务器进行账号验证，如果账
+     号正确则验证成功，否则验证失败。用户验证成功后进行创建仓库，仓库
+     创建成功后仓库中用户可以进行编辑文件，上传文件，删除文件的操作。
+     服务器可以进行更新文件操作。更新成功后返回信息给用户。
     
-         
+## 顺序图与活动图
+![image](https://github.com/xs080452/maxinyi20182123016.github.io/blob/gh-pages/CS3~FEQU8%7D~ENUKBQ)B%24MU7.png)  
+![image](https://github.com/xs080452/maxinyi20182123016.github.io/blob/gh-pages/L3X3(I2%603KPVGBLG)UW%24%40X1.png)  
              
